@@ -23,6 +23,7 @@
             <DefaultRolloverStrategy max="2" />
         </RollingFile>
 
+
     </Appenders>
     <Loggers>
         <AsyncLogger name="org.hibernate" level="error" />
